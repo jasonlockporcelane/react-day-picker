@@ -1,5 +1,5 @@
 {
-  "name": "react-day-picker",
+  "name": "react-day-picker-v2-beta",
   "version": "2.0.0",
   "description": "Flexible date picker component for React",
   "main": "DayPicker.js",
